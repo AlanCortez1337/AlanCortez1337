@@ -4,7 +4,7 @@ Hi 👋 My name is Alan Cortez
 ## UI/UX Full-Stack Web Developer
 
 
-I'm just a silly little guy who makes silly little things in this silly little world. But on a more semi-serious note, I am here to make your life easier and an amusing adventure.
+I'm just a silly little guy who makes silly little things in this silly little world. But in reality I am here, to make your vision into a tangible reality.
 
 *   🌍  I'm based in California
 *   🖥️  See my portfolio at [alancortez.dev](http://alancortez.dev)
